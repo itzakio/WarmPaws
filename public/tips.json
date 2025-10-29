@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Keep Your Pet Warm Indoors",
+    "description": "Ensure your pet stays cozy during cold days by keeping them indoors and away from drafts. Provide a warm bed or blanket in a dry area.",
+    "image": "https://i.postimg.cc/pXhtrkCs/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Limit Outdoor Time",
+    "description": "Shorten walks during extreme cold. Frostbite and hypothermia can occur quickly, especially in smaller or short-haired pets.",
+    "image": "https://i.postimg.cc/WbFPzS8X/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Protect Paws from Ice and Salt",
+    "description": "Clean your pet’s paws after walks to remove harmful salt, chemicals, and ice. Consider using pet-safe boots or balms.",
+    "image": "https://i.postimg.cc/X7G0qxLx/3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Avoid Overfeeding",
+    "description": "Pets may be less active in winter, so monitor their diet to prevent weight gain. Adjust meals based on their activity level.",
+    "image": "https://i.postimg.cc/WbFPzS88/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Provide Fresh Water",
+    "description": "Make sure your pet’s water bowl doesn’t freeze. Hydration is just as important in winter as it is in summer.",
+    "image": "https://i.postimg.cc/J7dLRSNc/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Keep Up With Grooming",
+    "description": "Don’t skip grooming during winter. Clean fur allows better insulation and prevents matting that traps moisture.",
+    "image": "https://i.postimg.cc/WpfvsxGS/6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Create a Warm Sleeping Spot",
+    "description": "Set up a cozy sleeping area away from cold floors or drafts. A raised bed with blankets helps retain warmth.",
+    "image": "https://i.postimg.cc/WpfvsxGm/7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Watch for Signs of Cold Stress",
+    "description": "Shivering, whining, or lethargy may mean your pet is too cold. Bring them indoors immediately if you notice these signs.",
+    "image": "https://i.postimg.cc/661XBFrc/8.jpg"
+  }
+]

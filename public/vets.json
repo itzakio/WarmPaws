@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Mitchell",
+    "title": "Veterinary Surgeon",
+    "description": "With over 10 years of experience in small animal surgery, Dr. Sarah ensures every pet receives the best medical care possible.",
+    "image": "https://i.postimg.cc/ncMm7L1g/Dr-Sarah-Mitchell.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Daniel Kim",
+    "title": "Animal Nutrition Specialist",
+    "description": "Dr. Kim focuses on balanced diets and preventive health to keep your pets strong and energetic all year round.",
+    "image": "https://i.postimg.cc/Fs1ScKZ5/Dr-Daniel-Kim.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Robert Carter",
+    "title": "Pet Behavior Consultant",
+    "description": "Dr. Emily helps improve your pet’s emotional well-being through modern behavior therapy and compassionate care.",
+    "image": "https://i.postimg.cc/yYWR9NTM/Dr-Robert-Carter.jpg"
+  }
+]
+
+
+

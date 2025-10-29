@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Sophia Miller",
+    "image": "https://i.pinimg.com/736x/1e/0d/d3/1e0dd3d6c02f4e7e5ddfd14fb6686bd1.jpg",
+    "date": "2025-09-14",
+    "rating": 5,
+    "description": "WarmPaws took amazing care of my golden retriever, Max! The staff were gentle and professional. Max came home clean, happy, and smelling great!"
+  },
+  {
+    "id": 2,
+    "name": "James Carter",
+    "image": "https://i.pinimg.com/1200x/b8/b2/19/b8b219ddc255b9134ac7e3142324fafa.jpg",
+    "date": "2025-09-28",
+    "rating": 4,
+    "description": "I booked a grooming and vet check-up service for my cat Luna. Everything went smoothly and the team gave me some great health tips!"
+  },
+  {
+    "id": 3,
+    "name": "Emily Rodriguez",
+    "image": "https://i.pinimg.com/1200x/24/7a/ad/247aad3303a70e32fede1c4cea461a19.jpg",
+    "date": "2025-10-05",
+    "rating": 5,
+    "description": "Absolutely love WarmPaws! They handled my nervous puppy with so much care. I’m definitely coming back for their winter coat treatment service."
+  },
+  {
+    "id": 4,
+    "name": "Liam Anderson",
+    "image": "https://i.pinimg.com/1200x/44/2a/64/442a64b6a366c295cb3f9bb8cbb353c2.jpg",
+    "date": "2025-10-12",
+    "rating": 4,
+    "description": "WarmPaws did a great job bathing and trimming my husky, Shadow. The environment was clean and the staff was super friendly!"
+  },
+  {
+    "id": 5,
+    "name": "Olivia Johnson",
+    "image": "https://i.pinimg.com/736x/af/6d/89/af6d891c1ff78132375179f6dff9488f.jpg",
+    "date": "2025-10-21",
+    "rating": 5,
+    "description": "Best pet care in town! The WarmPaws team treats every pet like family. My cat Bella loves visiting them for her spa sessions!"
+  }
+]

@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Signika+Negative:wght@300..700&display=swap");
+
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+.signika-font {
+  font-family: "Signika Negative", sans-serif;
+}
+
+.bg-color-primary {
+  @apply bg-orange-500;
+}
+.bg-color-secondary {
+  @apply bg-orange-200;
+}
+.bg-background {
+  @apply bg-orange-50;
+}
+
+.text-primary {
+  @apply text-orange-500;
+}
+.text-secondary {
+  @apply text-black/80;
+}
+.text-sub {
+  @apply text-black/60 text-sm md:text-base px-4;
+}
+
+.navLinks {
+  @apply font-semibold py-1 border-b-2 border-transparent hover:border-b-2 hover:border-orange-500 hover:text-orange-500 flex gap-1 items-center;
+}
+
+nav ul a.active {
+  @apply text-orange-500 border-orange-500;
+}
+
+.margin-top {
+  @apply mt-4 md:mt-8 lg:mt-12 xl:mt-16;
+}
+.margin-bottom {
+  @apply mb-4 md:mb-8 lg:mb-12 xl:mb-16;
+}
+.margin-y {
+  @apply my-4 md:my-8 lg:my-12 xl:my-16;
+}
+
+.mybtn {
+  @apply rounded-full cursor-pointer active:scale-98 text-white bg-orange-500 px-4 py-2 text-lg font-semibold;
+}
+
+.headline {
+  @apply text-2xl md:text-3xl text-black/80 lg:text-5xl pb-1 font-semibold text-center;
+}
+
+.footer-link {
+  @apply hover:translate-x-2 text-black/70 transition-all duration-100 cursor-pointer;
+}
+.title-footer{
+  @apply text-xl mb-2 font-semibold text-black/70
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes rotationBack {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-360deg);
+  }
+}

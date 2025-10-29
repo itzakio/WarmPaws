@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://i.postimg.cc/QC0f0BGW/1.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo to protect skin and paws from dryness.",
+    "image": "https://i.postimg.cc/kGfTfV36/2.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Pet Bed Rental",
+    "providerName": "WarmTails Center",
+    "providerEmail": "contact@warmtails.com",
+    "price": 15,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Rent a cozy heated pet bed for your cat or small dog during the cold months to ensure a comfortable rest.",
+    "image": "https://i.postimg.cc/ZnVwV9t4/3.jpg",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Nutritional Winter Diet Plan",
+    "providerName": "PetWell Nutrition",
+    "providerEmail": "support@petwell.com",
+    "price": 40,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Customized meal plans packed with winter nutrients to boost your pet’s immunity and energy levels.",
+    "image": "https://i.postimg.cc/MHd9dc2z/4.jpg",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Winter Exercise & Play Sessions",
+    "providerName": "HappyPaws Activity Club",
+    "providerEmail": "play@happypaws.com",
+    "price": 20,
+    "rating": 4.6,
+    "slotsAvailable": 7,
+    "description": "Indoor winter-safe exercise and play sessions to keep your pet active despite the cold weather.",
+    "image": "https://i.postimg.cc/C5mcmZTF/5.jpg",
+    "category": "Activity"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Snow Safety & Walking Gear Set",
+    "providerName": "FurShield Supplies",
+    "providerEmail": "sales@furshield.com",
+    "price": 35,
+    "rating": 4.8,
+    "slotsAvailable": 4,
+    "description": "Includes anti-slip boots, reflective jackets, and thermal leashes for safe winter walks.",
+    "image": "https://i.postimg.cc/RhXgX35S/6.jpg",
+    "category": "Accessories"
+  }
+]
