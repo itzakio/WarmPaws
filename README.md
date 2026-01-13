@@ -31,3 +31,7 @@ More helpful services are coming soon — because every pet deserves a warm paw 
 - Optional: Libraries for UI components (daisyUI, React Icon, React Hot Toast, SwiperJS, AOS Animate on scroll library, cssloaders )
 
 Live Link: https://warm-paws-be450.web.app
+
+**Homepage:**
+
+<img src="https://i.ibb.co.com/qYSzn4wX/warmpaws.png" alt="Warm Paws" style="width:50%;" />
